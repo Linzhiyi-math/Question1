@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## 运行方法
 
-**方法一：使用 Jupyter Notebook**
+使用 Jupyter Notebook**
 
 ```bash
 jupyter notebook 第一题.ipynb
@@ -41,11 +41,6 @@ jupyter notebook 第一题.ipynb
 
 打开后，点击菜单栏 **Cell → Run All** 运行全部代码。
 
-**方法二：使用 JupyterLab**
-
-```bash
-jupyter lab 第一题.ipynb
-```
 
 ---
 
