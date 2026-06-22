@@ -22,15 +22,6 @@ pip install -r requirements.txt
 ```
 ---
 
-## 文件结构
-
-```
-.
-└── 第一题.ipynb    # 主程序（Jupyter Notebook）
-```
-
----
-
 ## 运行方法
 
 使用 Jupyter Notebook**
