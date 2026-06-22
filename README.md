@@ -4,7 +4,7 @@
 
 本作业实现了 **LIF（Leaky Integrate-and-Fire）神经元模型** 结合 **OU（Ornstein-Uhlenbeck）突触电流** 的参数反解与数值验证。
 
-给定目标 ISI（峰间隔）的均值与方差，通过白噪声极限理论（Ricciardi 公式）反解模型参数，并用 2 维 SDE 数值模拟验证其有效性。
+给定目标 ISI 的均值与方差，通过白噪声极限理论（Ricciardi 公式）反解模型参数，并用 2 维 SDE 数值模拟验证其有效性。
 
 ---
 
