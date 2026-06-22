@@ -19,7 +19,7 @@
 
 ```bash
 pip install -r requirements.txt
-、、、
+```
 ---
 
 ## 文件结构
