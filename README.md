@@ -10,21 +10,15 @@
 
 ## 环境要求
 
-- **Python 版本**：3.8 及以上（开发环境：Python 3.14.4）
-- **运行环境**：Jupyter Notebook 或 JupyterLab
+- **开发环境**：Python 3.14.4
+- **运行环境**：Jupyter Notebook
+- **依赖库**：numpy, scipy
+- （版本见 requirements.txt）
 
-### 依赖库
-
-```
-numpy
-scipy
-```
-
-安装依赖：
+安装第三方依赖：
 
 ```bash
-pip install numpy scipy jupyter
-```
+pip install -r requirements.txt
 
 ---
 
